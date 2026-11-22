@@ -5,13 +5,13 @@
 ## 3 Worked Examples Added to Prompt
 1. **Example 1 (Hinglish Fraud → Urgent, Hinglish reply):**  
    *Input:* "Koi mere account se bina puche paise kat raha hai!"  
-   *Output:* `Fraud / Unauthorized | Urgent | Hum aapki suraksha ko priority dete hain. Kripya turant app mein UPI lock karein—hamari fraud team aapse abhi sampark karegi.`
+   *Output:* Fraud / Unauthorized | Urgent | Hum aapki suraksha ko priority dete hain. Kripya turant app mein UPI lock karein—hamari fraud team aapse abhi sampark karegi.
 2. **Example 2 (User Mistake / Failed UPI → Payment Issue, High, no timeline):**  
    *Input:* "I sent ₹300 to the wrong number by mistake."  
-   *Output:* `Payment Issue | High | We understand how stressful this is. Since UPI transfers are instant, please raise a dispute in Transaction History so our team can coordinate with the recipient bank.`
+   *Output:* Payment Issue | High | We understand how stressful this is. Since UPI transfers are instant, please raise a dispute in Transaction History so our team can coordinate with the recipient bank.
 3. **Example 3 (Social Engineering Scam → Fraud / Unauthorized, Urgent):**  
    *Input:* "A fake agent made me approve a collect request of ₹2,000."  
-   *Output:* `Fraud / Unauthorized | Urgent | We are escalating this to our urgent fraud desk right away. Please do not share any OTP or PIN and report the transaction in-app immediately.`
+   *Output:* Fraud / Unauthorized | Urgent | We are escalating this to our urgent fraud desk right away. Please do not share any OTP or PIN and report the transaction in-app immediately.
 
 ## Results Marked Against Answer Key
 
